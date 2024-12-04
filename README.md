@@ -1,6 +1,8 @@
 # Data Preparation Lab 1
 Лабораторная работа №1. Подготовка и разметка неструктурированных данных.
 
+Этот проект использует IMDB Movie Reviews Dataset для создания системы классификации эмоций (положительный/отрицательный) в текстовых отзывах.
+
 ## Структура репозитория
 - `data/` — Данные:
   - `raw/` — Исходные данные:
@@ -31,3 +33,13 @@
   - `models/` — обученные модели.
   - `output/` — текстовые результаты.
 - `docs/` — Документация.
+
+## Источник данных
+Данные были получены из IMDB Movie Reviews Dataset, доступного по ссылке: [IMDB Dataset](https://ai.stanford.edu/~amaas/data/sentiment/).
+
+## Пример данных
+### Пример положительного отзыва:
+The movie was absolutely fantastic! I loved it!
+
+### Пример отрицательного отзыва:
+The movie was terrible. It was a waste of time.
