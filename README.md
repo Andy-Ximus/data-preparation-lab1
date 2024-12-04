@@ -43,3 +43,6 @@ The movie was absolutely fantastic! I loved it!
 
 ### Пример отрицательного отзыва:
 The movie was terrible. It was a waste of time.
+
+## Контактная информация
+Автор: [Коновалов Егор]
