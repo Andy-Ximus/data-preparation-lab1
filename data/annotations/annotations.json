@@ -1,0 +1,18 @@
+[
+  {
+    "text": "Продукт оказался отличным!",
+    "annotations": {
+      "tone": "positive",
+      "topic": "product",
+      "subject": "product"
+    }
+  },
+  {
+    "text": "Цены слишком высокие.",
+    "annotations": {
+      "tone": "negative",
+      "topic": "pricing",
+      "subject": "prices"
+    }
+  }
+]
